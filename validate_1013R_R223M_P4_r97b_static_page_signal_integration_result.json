@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "check_count": 53,
+  "failed": 0,
+  "failures": [],
+  "stage_id": "1013R_R223M_P4_R97B_STATIC_PAGE_SIGNAL_INTEGRATION",
+  "html_xiaojiao_count": 7,
+  "html_impact_count": 7,
+  "formal_ui": "blocked"
+}

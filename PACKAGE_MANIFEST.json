@@ -1,0 +1,103 @@
+{
+  "stage_id": "1013R_R223M_P4_R97B_STATIC_PAGE_SIGNAL_INTEGRATION",
+  "status": "R223M-P4_R97B_STATIC_PAGE_SIGNAL_INTEGRATION",
+  "generated_at": "2026-07-09T17:13:50",
+  "boundary": {
+    "formal_ui": false,
+    "r97b_modified": false,
+    "frontend_backend_modified": false,
+    "runtime_connected": false,
+    "provider_model_connected": false,
+    "prompt_modified": false,
+    "database_written": false,
+    "formal_apply": false
+  },
+  "zip_sha256": "0CDF775F3B617444947293AF6001F545498E53E7279F265AC05F2A02106ACD17",
+  "files": [
+    {
+      "path": "R223M_P4_r97b_static_page_signal_audit.md",
+      "bytes": 11901,
+      "sha256": "1A8C1174390F68D2601B2D3651D24C66BA16CDADFA3FB567C13F23772531A30B"
+    },
+    {
+      "path": "R223M_P4_teacher_draft_presentation_rules.md",
+      "bytes": 1646,
+      "sha256": "1FDDEC0FF0E707E0EC16D607E827711BAFE86C96695D81D389CD07CE31603FA4"
+    },
+    {
+      "path": "R223M_P4_xiaojiao_judgement_summary_standard.md",
+      "bytes": 775,
+      "sha256": "6C771EA0B176FB46E0AE5683EE8CA3BCA3A6C9CB16D01C4550DC2896A4CD29C1"
+    },
+    {
+      "path": "R223M_P4_derived_material_impact_summary_standard.md",
+      "bytes": 527,
+      "sha256": "7EB8EF31A626C60CAFA5107387FE86CA88D565ED5A89E217ACA9AB15B6831FE7"
+    },
+    {
+      "path": "R223M_P4_preview_and_teacher_confirmation_gate.md",
+      "bytes": 848,
+      "sha256": "A0E0B14A42B3519E4AD4BA4E66B9E56C9DCCF05D25ACB3EAFD9FF97C4AAD75CE"
+    },
+    {
+      "path": "R223M_P4_teacher_readable_process_v5.md",
+      "bytes": 16138,
+      "sha256": "5108F97166C34149BA101FCBA5CCBDF12755C78FDE403963D7D0155A19FA9AD7"
+    },
+    {
+      "path": "R223M_P4_teacher_readable_process_v5.html",
+      "bytes": 20086,
+      "sha256": "B4D12462E8E754C13DB309402038D639DD530755BA843DBB2361A5849031D9C1"
+    },
+    {
+      "path": "R223M_P4_before_after_compare_with_P3.md",
+      "bytes": 888,
+      "sha256": "819F1AB2B905B6FB4197EA603BD3A01658ED8A4864DE0D079D3BE3C8C4A4FA85"
+    },
+    {
+      "path": "R223M_P4_report.md",
+      "bytes": 1104,
+      "sha256": "2B138F17B58208C8A1A0F339E1826A506E8A32FE56B2F5D404D22B07DB9E2B83"
+    },
+    {
+      "path": "README_FOR_GPT_REVIEW.md",
+      "bytes": 864,
+      "sha256": "9FA397C923E0B4E085159BCACEF076A25F7D0192AEF0EDC789421A8278243F79"
+    },
+    {
+      "path": "README.md",
+      "bytes": 921,
+      "sha256": "B587394EAB42B03E582752A92CE254380557837C40A25A13BEDC8DDC1BFE6E59"
+    },
+    {
+      "path": "validate_1013R_R223M_P4_r97b_static_page_signal_integration.py",
+      "bytes": 5081,
+      "sha256": "7F1CFCFA2EFCAC348B716A23CBF621A0CCF5F0C757E21F9DF3E786CA7C31951B"
+    },
+    {
+      "path": "validate_1013R_R223M_P4_r97b_static_page_signal_integration_result.json",
+      "bytes": 233,
+      "sha256": "0E4B3F9499014E9842B08440A00093F0BF6F7BD3CFA2F11576A5DCFD90626B0F"
+    },
+    {
+      "path": "PACKAGE_MANIFEST.json",
+      "bytes": 3080,
+      "sha256": "624FA3FFAB9E62CA2B8D9C2CC7ECCEB20055DE958BD0A8E7D7697BE098F907C9"
+    },
+    {
+      "path": "ZIP_SHA256.txt",
+      "bytes": 66,
+      "sha256": "EB2B2BDB89F8158DD5F3BE0979B73AF5EEBD0EFB9F2109A80EF05F50F70401EC"
+    },
+    {
+      "path": "R223M_P4_teacher_readable_process_v5_screenshot.png",
+      "bytes": 81471,
+      "sha256": "5BB6D7BA7F22BFA7EC90149898AC6299DAC7EB1D80557711CB282AFD49D7F530"
+    },
+    {
+      "path": "R223M_P4_browser_smoke_result.json",
+      "bytes": 499,
+      "sha256": "D58C24F1AE1BE2558F1F168973F4CAEED2A431AA5CA928A4A1E45FF495DCC5ED"
+    }
+  ]
+}
